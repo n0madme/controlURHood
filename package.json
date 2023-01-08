@@ -1,0 +1,25 @@
+{
+  "name": "controlurhood",
+  "version": "1.0.0",
+  "description": "awesome dj controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0madme/controlURHood.git"
+  },
+  "author": "n0madme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0madme/controlURHood/issues"
+  },
+  "homepage": "https://github.com/n0madme/controlURHood#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-vue": "^9.8.0",
+    "vue-cli": "^1.2.0"
+  }
+}
